@@ -12,7 +12,10 @@
 - ⚡ Fun fact: I love coding, playing Games, traveling and nature.
 
 <h3 <align="left">Skills </h3>
-- Java, JavaScript
+
+- Java
+
+- JavaScript
 
 - Visual Studio
 
@@ -25,8 +28,6 @@
 - MySQL, Oracle
 
 - C, C++
-
-
 
 
 
