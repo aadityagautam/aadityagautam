@@ -7,10 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/aaditya_1009" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya0009?logo=twitter&style=for-the-badge" alt="aaditya0009" /></a> </p>
 
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityagautam)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aaditya0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaditya0009" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-gutam-7753b9222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-gutam-7753b9222/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-gutam-7753b9222/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityagautam-7753b9222/" height="30" width="40" /></a>
 <a href="https://instagram.com/aaditygautam_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaditygautam_official" height="30" width="40" /></a>
 </p>
 
@@ -22,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditygautam&show_icons=true&locale=en" alt="aaditygautam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditygautam&" alt="aaditygautam" /></p>
+
