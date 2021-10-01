@@ -1,11 +1,36 @@
 <h1 align="left">Hi there, I'm Aditya Gautam 👋</h1>
-<h3 align="left">I'm a student, Java Developer and Competitive programming enthusiastic. !!</h3>
+<h2 align="left">I'm a student, Java Developer and Competitive programming enthusiastic. !!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditygautam&label=Profile%20views&color=0e75b6&style=flat" alt="aaditygautam" /> </p>
+- 🔭I'm currently Passout BCA from Pune University.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditygautam" alt="aaditygautam" /></a> </p>
+- 🌱 I’m currently learning about new technology and self discovery.
 
-<p align="left"> <a href="https://twitter.com/aaditya_1009" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya0009?logo=twitter&style=for-the-badge" alt="aaditya0009" /></a> </p>
+- 👯 I'm looking for java/Web internship/Open Source.
+
+- 🥅 2021 Goals: Competitive Programming and Contribute more to Open Source projects and Interns.
+
+- ⚡ Fun fact: I love coding, playing Games, traveling and nature.
+
+<h3 <align="left">Skills </h3>
+- Java, JavaScript
+
+- Visual Studio
+
+- Microsoft Access
+
+- HTML CSS
+
+- PHP
+
+- MySQL, Oracle
+
+- C, C++
+
+
+
+
+
+<p align="left"> <a href="https://twitter.com/aaditya_1009" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya_1009?logo=twitter&style=for-the-badge" alt="aaditya_1009" /></a> </p>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityagautam)
 
