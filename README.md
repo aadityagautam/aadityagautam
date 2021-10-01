@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Aditya Gautam 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi there, I'm Aditya Gautam 👋</h1>
+<h3 align="left">I'm a student, Java Developer and Competitive programming enthusiastic. !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditygautam&label=Profile%20views&color=0e75b6&style=flat" alt="aaditygautam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditygautam" alt="aaditygautam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aaditya0009" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya0009?logo=twitter&style=for-the-badge" alt="aaditya0009" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aaditya_1009" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya0009?logo=twitter&style=for-the-badge" alt="aaditya0009" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
