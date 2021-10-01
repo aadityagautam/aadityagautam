@@ -1,4 +1,7 @@
-<h1 align="left">Hi there, I'm Aditya Gautam 👋</h1>
+Hi there, I'm Aditya Gautam 👋
+
+![image](https://user-images.githubusercontent.com/91717389/135635447-ff34b58a-cf12-4e67-9d55-6c538926120a.png)
+
 <h2 align="left">I'm a student, Java Developer and Competitive programming enthusiastic. !!</h2>
 
 - 🔭I'm currently Passout BCA from Pune University.
@@ -13,7 +16,7 @@
 
 <h3 <align="left">Skills </h3>
 
-- Java
+- Java 
 
 - JavaScript
 
