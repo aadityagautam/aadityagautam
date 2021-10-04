@@ -16,21 +16,19 @@ Hi there, I'm Aditya Gautam 👋
 
 <h3 <align="left">Skills </h3>
 
-- Java 
+- ♨️  Java, JavaScript
 
-- JavaScript
+-     Visual Studio
 
-- Visual Studio
+-     Microsoft Access
 
-- Microsoft Access
+- 🌐  HTML, CSS
 
-- HTML CSS
+-     PHP
 
-- PHP
-
-- MySQL, Oracle
-
-- C, C++
+- 🗄️  MySQL, Oracle
+ 
+- 💻  C, C++
 
 
 
